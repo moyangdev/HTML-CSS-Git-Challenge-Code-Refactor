@@ -21,3 +21,5 @@ THEN I find a concise, descriptive title <br />
 
 The following image shows the web application's appearance and functionality:
 ![image](https://user-images.githubusercontent.com/98504854/153727605-3a6376ca-2675-4d02-8800-1d58b40da9d0.png)
+
+Link to deployed application: https://moyangdev.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
